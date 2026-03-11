@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=qa_neoload_project
+project.version=8.10
+project.original.version=8.10
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=2025.3.0
+project.is-open-test-settings-after-upload=false
+project.id=bccf5e6b-62e8-4602-9fb0-c3dbc7c617fd
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=guillaumebert/qa_neoload_project.git
