@@ -1,0 +1,835 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@balade sur @jpetstore/%resources%/recorded-artifacts/5dab868a-3ce5-4aab-972d-8ddea87fc8da.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="5dab868a-3ce5-4aab-972d-8ddea87fc8da">
+    <embedded-action>3bf8f227-662e-4828-b480-2c1968447cfc</embedded-action>
+    <embedded-action>91f1c215-7e31-4bef-96d1-ba9df5939672</embedded-action>
+    <embedded-action>4bfb6931-23ed-469e-afa8-13b64cc1c414</embedded-action>
+    <embedded-action>7923b60d-34a8-4fd6-860f-5b6873195ba5</embedded-action>
+    <embedded-action>ad1b01ed-d29b-4c28-acb2-c1d6a9dba84b</embedded-action>
+    <embedded-action>db7d41b0-c69f-4f09-84aa-a97b4eee9d03</embedded-action>
+    <embedded-action>570e518d-c4e3-451d-9d97-17af04006c85</embedded-action>
+    <embedded-action>4a2bf9ff-ba8a-4b84-bd8e-4c805a50c959</embedded-action>
+    <embedded-action>7a4a362d-c010-459f-b509-af74a555b770</embedded-action>
+    <embedded-action>11ba9a68-1b18-4bb7-9cfa-f9044004cd6c</embedded-action>
+    <embedded-action>8e760b3a-de45-4850-ade0-673223901bd9</embedded-action>
+    <embedded-action>d8c25506-70f2-4cbc-a991-e6a2ba9711bb</embedded-action>
+    <embedded-action>5e564690-1575-42a2-a6f3-56b8c51465c5</embedded-action>
+    <embedded-action>d7d39f63-1aea-4b00-b78b-cf0009ea8b91</embedded-action>
+    <embedded-action>0cfc2aa5-e4f2-43a6-8de7-2ca571b7e178</embedded-action>
+    <embedded-action>4530174c-93a5-4ba1-8f3f-643781ca58d6</embedded-action>
+    <embedded-action>e4a3839b-f97e-44ad-aaa7-d0a36c0eff30</embedded-action>
+    <embedded-action>cc2f8783-4c87-495a-8ea5-ae12624e1cf4</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/" path="/" postType="6"
+    recordedArtifactZipFileName="team/vus/@balade sur @jpetstore/%resources%/recorded-artifacts/5dab868a-3ce5-4aab-972d-8ddea87fc8da.zip"
+    recordedResponseCode="200" responseSize="25084"
+    serverUid="sampledemo.neotys.com" slaProfileEnabled="false"
+    uid="3bf8f227-662e-4828-b480-2c1968447cfc" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_40ea61fe-3b91-407f-a88c-20caa017cef8.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_40ea61fe-3b91-407f-a88c-20caa017cef8.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="apt.uid=AP-OLHBIWKH7BEB-2-2-1760365120407-56564147.0.2.e4d8c3a6-cc0b-41ee-96d1-7fd4ced4dbd5"/>
+    <header name="Host" value="sampledemo.neotys.com"/>
+    <header name="sec-ch-ua" value="&quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="document"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="none"/>
+    <header name="Sec-Fetch-User" value="?1"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 11 Mar 2026 13:53:00 GMT&#xd;
+Server: Apache&#xd;
+Set-Cookie: ushahidi=b9icps51r09ph5eod0il2jdqr6; expires=Wed, 11-Mar-2026 15:53:00 GMT; Max-Age=7200; path=/; HttpOnly&#xd;
+Expires: Thu, 19 Nov 1981 08:52:00 GMT&#xd;
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0&#xd;
+Pragma: no-cache&#xd;
+Set-Cookie: ushahidi=b9icps51r09ph5eod0il2jdqr6; expires=Wed, 11-Mar-2026 15:53:00 GMT; Max-Age=7200; path=/; httponly&#xd;
+Connection: close&#xd;
+Transfer-Encoding: chunked&#xd;
+Content-Type: text/html; charset=UTF-8&#xd;
+Set-Cookie: SRVNAME=S2; path=/</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;6bbd-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/css/jquery-ui-themeroller.css"
+    path="/media/css/jquery-ui-themeroller.css" postType="6"
+    recordedArtifactZipFileName="team/vus/@balade sur @jpetstore/%resources%/recorded-artifacts/5dab868a-3ce5-4aab-972d-8ddea87fc8da.zip"
+    recordedResponseCode="200"
+    refererUid="3bf8f227-662e-4828-b480-2c1968447cfc"
+    responseSize="27581" serverUid="sampledemo.neotys.com"
+    slaProfileEnabled="false" uid="91f1c215-7e31-4bef-96d1-ba9df5939672" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c512593f-31fd-4f1a-85ac-b70b0482dbb5.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c512593f-31fd-4f1a-85ac-b70b0482dbb5.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="1542866374" separator="=" value="1542866374" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="apt.uid=AP-OLHBIWKH7BEB-2-2-1760365120407-56564147.0.2.e4d8c3a6-cc0b-41ee-96d1-7fd4ced4dbd5; ushahidi=b9icps51r09ph5eod0il2jdqr6; SRVNAME=S2"/>
+    <header name="Host" value="sampledemo.neotys.com"/>
+    <header name="Referer" value="https://sampledemo.neotys.com/"/>
+    <header name="sec-ch-ua" value="&quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 11 Mar 2026 13:53:01 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "6bbd-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 27581&#xd;
+Connection: close&#xd;
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="1"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;b4a-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/css/global.css"
+    path="/media/css/global.css" postType="6"
+    recordedArtifactZipFileName="team/vus/@balade sur @jpetstore/%resources%/recorded-artifacts/5dab868a-3ce5-4aab-972d-8ddea87fc8da.zip"
+    recordedResponseCode="200"
+    refererUid="3bf8f227-662e-4828-b480-2c1968447cfc"
+    responseSize="2890" serverUid="sampledemo.neotys.com"
+    slaProfileEnabled="false" uid="4bfb6931-23ed-469e-afa8-13b64cc1c414" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_417cf274-1254-44e0-bfe0-32125f5f4941.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_417cf274-1254-44e0-bfe0-32125f5f4941.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="1542866374" separator="=" value="1542866374" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="apt.uid=AP-OLHBIWKH7BEB-2-2-1760365120407-56564147.0.2.e4d8c3a6-cc0b-41ee-96d1-7fd4ced4dbd5; ushahidi=b9icps51r09ph5eod0il2jdqr6; SRVNAME=S2"/>
+    <header name="Host" value="sampledemo.neotys.com"/>
+    <header name="Referer" value="https://sampledemo.neotys.com/"/>
+    <header name="sec-ch-ua" value="&quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 11 Mar 2026 13:53:01 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "b4a-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 2890&#xd;
+Connection: close&#xd;
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="1"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;2e81-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/css/openlayers.css"
+    path="/media/css/openlayers.css" postType="6"
+    recordedArtifactZipFileName="team/vus/@balade sur @jpetstore/%resources%/recorded-artifacts/5dab868a-3ce5-4aab-972d-8ddea87fc8da.zip"
+    recordedResponseCode="200"
+    refererUid="3bf8f227-662e-4828-b480-2c1968447cfc"
+    responseSize="11905" serverUid="sampledemo.neotys.com"
+    slaProfileEnabled="false" uid="7923b60d-34a8-4fd6-860f-5b6873195ba5" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e2098dd8-b205-4027-af1c-6dead0b8a96a.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e2098dd8-b205-4027-af1c-6dead0b8a96a.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="1542866374" separator="=" value="1542866374" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="apt.uid=AP-OLHBIWKH7BEB-2-2-1760365120407-56564147.0.2.e4d8c3a6-cc0b-41ee-96d1-7fd4ced4dbd5; ushahidi=b9icps51r09ph5eod0il2jdqr6; SRVNAME=S2"/>
+    <header name="Host" value="sampledemo.neotys.com"/>
+    <header name="Referer" value="https://sampledemo.neotys.com/"/>
+    <header name="sec-ch-ua" value="&quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 11 Mar 2026 13:53:01 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "2e81-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 11905&#xd;
+Connection: close&#xd;
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="1"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;164f-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/themes/default/css/base.css"
+    path="/themes/default/css/base.css" postType="6"
+    recordedArtifactZipFileName="team/vus/@balade sur @jpetstore/%resources%/recorded-artifacts/5dab868a-3ce5-4aab-972d-8ddea87fc8da.zip"
+    recordedResponseCode="200"
+    refererUid="3bf8f227-662e-4828-b480-2c1968447cfc"
+    responseSize="5711" serverUid="sampledemo.neotys.com"
+    slaProfileEnabled="false" uid="ad1b01ed-d29b-4c28-acb2-c1d6a9dba84b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_614e3963-5b94-405d-8124-50a0cdd11d2b.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_614e3963-5b94-405d-8124-50a0cdd11d2b.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="1542866374" separator="=" value="1542866374" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="apt.uid=AP-OLHBIWKH7BEB-2-2-1760365120407-56564147.0.2.e4d8c3a6-cc0b-41ee-96d1-7fd4ced4dbd5; ushahidi=b9icps51r09ph5eod0il2jdqr6; SRVNAME=S2"/>
+    <header name="Host" value="sampledemo.neotys.com"/>
+    <header name="Referer" value="https://sampledemo.neotys.com/"/>
+    <header name="sec-ch-ua" value="&quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 11 Mar 2026 13:53:01 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "164f-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 5711&#xd;
+Connection: close&#xd;
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="1"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;429-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/themes/default/css/accordion.css"
+    path="/themes/default/css/accordion.css" postType="6"
+    recordedArtifactZipFileName="team/vus/@balade sur @jpetstore/%resources%/recorded-artifacts/5dab868a-3ce5-4aab-972d-8ddea87fc8da.zip"
+    recordedResponseCode="200"
+    refererUid="3bf8f227-662e-4828-b480-2c1968447cfc"
+    responseSize="1065" serverUid="sampledemo.neotys.com"
+    slaProfileEnabled="false" uid="db7d41b0-c69f-4f09-84aa-a97b4eee9d03" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2ecb1ed6-0e18-48b2-a6c5-ca3d2cfc6e18.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2ecb1ed6-0e18-48b2-a6c5-ca3d2cfc6e18.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="1542866374" separator="=" value="1542866374" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="apt.uid=AP-OLHBIWKH7BEB-2-2-1760365120407-56564147.0.2.e4d8c3a6-cc0b-41ee-96d1-7fd4ced4dbd5; ushahidi=b9icps51r09ph5eod0il2jdqr6; SRVNAME=S2"/>
+    <header name="Host" value="sampledemo.neotys.com"/>
+    <header name="Referer" value="https://sampledemo.neotys.com/"/>
+    <header name="sec-ch-ua" value="&quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 11 Mar 2026 13:53:01 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "429-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 1065&#xd;
+Connection: close&#xd;
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="1"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;aa5-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/themes/default/css/slider.css"
+    path="/themes/default/css/slider.css" postType="6"
+    recordedArtifactZipFileName="team/vus/@balade sur @jpetstore/%resources%/recorded-artifacts/5dab868a-3ce5-4aab-972d-8ddea87fc8da.zip"
+    recordedResponseCode="200"
+    refererUid="3bf8f227-662e-4828-b480-2c1968447cfc"
+    responseSize="2725" serverUid="sampledemo.neotys.com"
+    slaProfileEnabled="false" uid="570e518d-c4e3-451d-9d97-17af04006c85" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3845e879-d1c1-4fe0-9138-be9222774f2f.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3845e879-d1c1-4fe0-9138-be9222774f2f.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="1542866374" separator="=" value="1542866374" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="apt.uid=AP-OLHBIWKH7BEB-2-2-1760365120407-56564147.0.2.e4d8c3a6-cc0b-41ee-96d1-7fd4ced4dbd5; ushahidi=b9icps51r09ph5eod0il2jdqr6; SRVNAME=S2"/>
+    <header name="Host" value="sampledemo.neotys.com"/>
+    <header name="Referer" value="https://sampledemo.neotys.com/"/>
+    <header name="sec-ch-ua" value="&quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 11 Mar 2026 13:53:01 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "aa5-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 2725&#xd;
+Connection: close&#xd;
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="1"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;c097-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/themes/default/css/style.css"
+    path="/themes/default/css/style.css" postType="6"
+    recordedArtifactZipFileName="team/vus/@balade sur @jpetstore/%resources%/recorded-artifacts/5dab868a-3ce5-4aab-972d-8ddea87fc8da.zip"
+    recordedResponseCode="200"
+    refererUid="3bf8f227-662e-4828-b480-2c1968447cfc"
+    responseSize="49303" serverUid="sampledemo.neotys.com"
+    slaProfileEnabled="false" uid="4a2bf9ff-ba8a-4b84-bd8e-4c805a50c959" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_4b8cd9fd-7865-40fa-ad82-9243ea2b57b1.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4b8cd9fd-7865-40fa-ad82-9243ea2b57b1.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="1542866374" separator="=" value="1542866374" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="apt.uid=AP-OLHBIWKH7BEB-2-2-1760365120407-56564147.0.2.e4d8c3a6-cc0b-41ee-96d1-7fd4ced4dbd5; ushahidi=b9icps51r09ph5eod0il2jdqr6; SRVNAME=S2"/>
+    <header name="Host" value="sampledemo.neotys.com"/>
+    <header name="Referer" value="https://sampledemo.neotys.com/"/>
+    <header name="sec-ch-ua" value="&quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 11 Mar 2026 13:53:01 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "c097-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 49303&#xd;
+Connection: close&#xd;
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="1"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;17277-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/jquery.js" path="/media/js/jquery.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@balade sur @jpetstore/%resources%/recorded-artifacts/5dab868a-3ce5-4aab-972d-8ddea87fc8da.zip"
+    recordedResponseCode="200"
+    refererUid="3bf8f227-662e-4828-b480-2c1968447cfc"
+    responseSize="94839" serverUid="sampledemo.neotys.com"
+    slaProfileEnabled="false" uid="7a4a362d-c010-459f-b509-af74a555b770" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b01bacd8-d087-4135-b772-7fbbe9b19783</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b01bacd8-d087-4135-b772-7fbbe9b19783.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="1542866374" separator="=" value="1542866374" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="apt.uid=AP-OLHBIWKH7BEB-2-2-1760365120407-56564147.0.2.e4d8c3a6-cc0b-41ee-96d1-7fd4ced4dbd5; ushahidi=b9icps51r09ph5eod0il2jdqr6; SRVNAME=S2"/>
+    <header name="Host" value="sampledemo.neotys.com"/>
+    <header name="Referer" value="https://sampledemo.neotys.com/"/>
+    <header name="sec-ch-ua" value="&quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 11 Mar 2026 13:53:02 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "17277-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 94839&#xd;
+Connection: close&#xd;
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="1"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;1367c-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/jquery.ui.min.js"
+    path="/media/js/jquery.ui.min.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@balade sur @jpetstore/%resources%/recorded-artifacts/5dab868a-3ce5-4aab-972d-8ddea87fc8da.zip"
+    recordedResponseCode="200"
+    refererUid="3bf8f227-662e-4828-b480-2c1968447cfc"
+    responseSize="79484" serverUid="sampledemo.neotys.com"
+    slaProfileEnabled="false" uid="11ba9a68-1b18-4bb7-9cfa-f9044004cd6c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_9a564f68-9268-44ca-9091-8e6d9dbaf1eb</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9a564f68-9268-44ca-9091-8e6d9dbaf1eb.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="1542866374" separator="=" value="1542866374" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="apt.uid=AP-OLHBIWKH7BEB-2-2-1760365120407-56564147.0.2.e4d8c3a6-cc0b-41ee-96d1-7fd4ced4dbd5; ushahidi=b9icps51r09ph5eod0il2jdqr6; SRVNAME=S2"/>
+    <header name="Host" value="sampledemo.neotys.com"/>
+    <header name="Referer" value="https://sampledemo.neotys.com/"/>
+    <header name="sec-ch-ua" value="&quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 11 Mar 2026 13:53:02 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "1367c-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 79484&#xd;
+Connection: close&#xd;
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="2"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;9bf-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/jquery.pngFix.pack.js"
+    path="/media/js/jquery.pngFix.pack.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@balade sur @jpetstore/%resources%/recorded-artifacts/5dab868a-3ce5-4aab-972d-8ddea87fc8da.zip"
+    recordedResponseCode="200"
+    refererUid="3bf8f227-662e-4828-b480-2c1968447cfc"
+    responseSize="2495" serverUid="sampledemo.neotys.com"
+    slaProfileEnabled="false" uid="8e760b3a-de45-4850-ade0-673223901bd9" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3861f555-3034-49e8-9ae9-a2bba59bccd2</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3861f555-3034-49e8-9ae9-a2bba59bccd2.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="1542866374" separator="=" value="1542866374" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="apt.uid=AP-OLHBIWKH7BEB-2-2-1760365120407-56564147.0.2.e4d8c3a6-cc0b-41ee-96d1-7fd4ced4dbd5; ushahidi=b9icps51r09ph5eod0il2jdqr6; SRVNAME=S2"/>
+    <header name="Host" value="sampledemo.neotys.com"/>
+    <header name="Referer" value="https://sampledemo.neotys.com/"/>
+    <header name="sec-ch-ua" value="&quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 11 Mar 2026 13:53:02 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "9bf-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 2495&#xd;
+Connection: close&#xd;
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="3"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;11bf-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/jquery.timeago.js"
+    path="/media/js/jquery.timeago.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@balade sur @jpetstore/%resources%/recorded-artifacts/5dab868a-3ce5-4aab-972d-8ddea87fc8da.zip"
+    recordedResponseCode="200"
+    refererUid="3bf8f227-662e-4828-b480-2c1968447cfc"
+    responseSize="4543" serverUid="sampledemo.neotys.com"
+    slaProfileEnabled="false" uid="d8c25506-70f2-4cbc-a991-e6a2ba9711bb" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b74d261e-8e5b-4004-b75a-f8903e12dffa</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b74d261e-8e5b-4004-b75a-f8903e12dffa.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="1542866374" separator="=" value="1542866374" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="apt.uid=AP-OLHBIWKH7BEB-2-2-1760365120407-56564147.0.2.e4d8c3a6-cc0b-41ee-96d1-7fd4ced4dbd5; ushahidi=b9icps51r09ph5eod0il2jdqr6; SRVNAME=S2"/>
+    <header name="Host" value="sampledemo.neotys.com"/>
+    <header name="Referer" value="https://sampledemo.neotys.com/"/>
+    <header name="sec-ch-ua" value="&quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 11 Mar 2026 13:53:02 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "11bf-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 4543&#xd;
+Connection: close&#xd;
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="4"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;4db-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/global.js" path="/media/js/global.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@balade sur @jpetstore/%resources%/recorded-artifacts/5dab868a-3ce5-4aab-972d-8ddea87fc8da.zip"
+    recordedResponseCode="200"
+    refererUid="3bf8f227-662e-4828-b480-2c1968447cfc"
+    responseSize="1243" serverUid="sampledemo.neotys.com"
+    slaProfileEnabled="false" uid="5e564690-1575-42a2-a6f3-56b8c51465c5" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e7308f00-8027-4b2c-af2c-44bf14b838b7</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e7308f00-8027-4b2c-af2c-44bf14b838b7.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="1542866374" separator="=" value="1542866374" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="apt.uid=AP-OLHBIWKH7BEB-2-2-1760365120407-56564147.0.2.e4d8c3a6-cc0b-41ee-96d1-7fd4ced4dbd5; ushahidi=b9icps51r09ph5eod0il2jdqr6; SRVNAME=S2"/>
+    <header name="Host" value="sampledemo.neotys.com"/>
+    <header name="Referer" value="https://sampledemo.neotys.com/"/>
+    <header name="sec-ch-ua" value="&quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 11 Mar 2026 13:53:02 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "4db-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 1243&#xd;
+Connection: close&#xd;
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="5"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;bc0d0-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/OpenLayers.js"
+    path="/media/js/OpenLayers.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@balade sur @jpetstore/%resources%/recorded-artifacts/5dab868a-3ce5-4aab-972d-8ddea87fc8da.zip"
+    recordedResponseCode="200"
+    refererUid="3bf8f227-662e-4828-b480-2c1968447cfc"
+    responseSize="770256" serverUid="sampledemo.neotys.com"
+    slaProfileEnabled="false" uid="d7d39f63-1aea-4b00-b78b-cf0009ea8b91" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e6884543-0c9c-4925-a2b9-2e5050cd0045</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e6884543-0c9c-4925-a2b9-2e5050cd0045.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="1542866374" separator="=" value="1542866374" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="apt.uid=AP-OLHBIWKH7BEB-2-2-1760365120407-56564147.0.2.e4d8c3a6-cc0b-41ee-96d1-7fd4ced4dbd5; ushahidi=b9icps51r09ph5eod0il2jdqr6; SRVNAME=S2"/>
+    <header name="Host" value="sampledemo.neotys.com"/>
+    <header name="Referer" value="https://sampledemo.neotys.com/"/>
+    <header name="sec-ch-ua" value="&quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 11 Mar 2026 13:53:02 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "bc0d0-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 770256&#xd;
+Connection: close&#xd;
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="6"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;8a25-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/ushahidi.js"
+    path="/media/js/ushahidi.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@balade sur @jpetstore/%resources%/recorded-artifacts/5dab868a-3ce5-4aab-972d-8ddea87fc8da.zip"
+    recordedResponseCode="200"
+    refererUid="3bf8f227-662e-4828-b480-2c1968447cfc"
+    responseSize="35365" serverUid="sampledemo.neotys.com"
+    slaProfileEnabled="false" uid="0cfc2aa5-e4f2-43a6-8de7-2ca571b7e178" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_710cbc98-5549-4581-8158-92d5af3bc2f0</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_710cbc98-5549-4581-8158-92d5af3bc2f0.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="1542866374" separator="=" value="1542866374" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="apt.uid=AP-OLHBIWKH7BEB-2-2-1760365120407-56564147.0.2.e4d8c3a6-cc0b-41ee-96d1-7fd4ced4dbd5; ushahidi=b9icps51r09ph5eod0il2jdqr6; SRVNAME=S2"/>
+    <header name="Host" value="sampledemo.neotys.com"/>
+    <header name="Referer" value="https://sampledemo.neotys.com/"/>
+    <header name="sec-ch-ua" value="&quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 11 Mar 2026 13:53:02 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "8a25-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 35365&#xd;
+Connection: close&#xd;
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="7"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;2183-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/selectToUISlider.jQuery.js"
+    path="/media/js/selectToUISlider.jQuery.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@balade sur @jpetstore/%resources%/recorded-artifacts/5dab868a-3ce5-4aab-972d-8ddea87fc8da.zip"
+    recordedResponseCode="200"
+    refererUid="3bf8f227-662e-4828-b480-2c1968447cfc"
+    responseSize="8579" serverUid="sampledemo.neotys.com"
+    slaProfileEnabled="false" uid="4530174c-93a5-4ba1-8f3f-643781ca58d6" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1a2726ea-8a51-4093-90ae-1418394ce116</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1a2726ea-8a51-4093-90ae-1418394ce116.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="1542866374" separator="=" value="1542866374" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="apt.uid=AP-OLHBIWKH7BEB-2-2-1760365120407-56564147.0.2.e4d8c3a6-cc0b-41ee-96d1-7fd4ced4dbd5; ushahidi=b9icps51r09ph5eod0il2jdqr6; SRVNAME=S2"/>
+    <header name="Host" value="sampledemo.neotys.com"/>
+    <header name="Referer" value="https://sampledemo.neotys.com/"/>
+    <header name="sec-ch-ua" value="&quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 11 Mar 2026 13:53:02 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "2183-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 8579&#xd;
+Connection: close&#xd;
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="9"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;2fc-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/img/icon-feed.png"
+    path="/media/img/icon-feed.png" postType="6"
+    recordedArtifactZipFileName="team/vus/@balade sur @jpetstore/%resources%/recorded-artifacts/5dab868a-3ce5-4aab-972d-8ddea87fc8da.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="sampledemo.neotys.com" slaProfileEnabled="false"
+    uid="e4a3839b-f97e-44ad-aaa7-d0a36c0eff30" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_f5239a82-652f-4cfe-8dd8-4a9903e3f643.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="apt.uid=AP-OLHBIWKH7BEB-2-2-1760365120407-56564147.0.2.e4d8c3a6-cc0b-41ee-96d1-7fd4ced4dbd5; ushahidi=b9icps51r09ph5eod0il2jdqr6; SRVNAME=S2"/>
+    <header name="Host" value="sampledemo.neotys.com"/>
+    <header name="Referer" value="https://sampledemo.neotys.com/"/>
+    <header name="sec-ch-ua" value="&quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 11 Mar 2026 13:53:02 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "2fc-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 764&#xd;
+Connection: close&#xd;
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;5d0-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/img/footer-logo.png"
+    path="/media/img/footer-logo.png" postType="6"
+    recordedArtifactZipFileName="team/vus/@balade sur @jpetstore/%resources%/recorded-artifacts/5dab868a-3ce5-4aab-972d-8ddea87fc8da.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="sampledemo.neotys.com" slaProfileEnabled="false"
+    uid="cc2f8783-4c87-495a-8ea5-ae12624e1cf4" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_d35e7ca5-f33b-4f8f-bf92-abc65638ec1e.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="apt.uid=AP-OLHBIWKH7BEB-2-2-1760365120407-56564147.0.2.e4d8c3a6-cc0b-41ee-96d1-7fd4ced4dbd5; ushahidi=b9icps51r09ph5eod0il2jdqr6; SRVNAME=S2"/>
+    <header name="Host" value="sampledemo.neotys.com"/>
+    <header name="Referer" value="https://sampledemo.neotys.com/"/>
+    <header name="sec-ch-ua" value="&quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 11 Mar 2026 13:53:02 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "5d0-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 1488&#xd;
+Connection: close&#xd;
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
