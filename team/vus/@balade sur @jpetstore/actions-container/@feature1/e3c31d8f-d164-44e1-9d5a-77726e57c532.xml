@@ -1,0 +1,46 @@
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/json/cluster" path="/json/cluster" postType="6"
+    recordedArtifactZipFileName="team/vus/@balade sur @jpetstore/%resources%/recorded-artifacts/c0e5611b-b317-48a4-bbc3-e189254830a8.zip"
+    recordedResponseCode="200" responseSize="440"
+    serverUid="sampledemo.neotys.com" slaProfileEnabled="false"
+    uid="e3c31d8f-d164-44e1-9d5a-77726e57c532" useKeepAlive="false">
+    <responsePageFileDescription>team/vus/@balade sur @jpetstore/%resources%/recorded-responses/res_f32e9191-a9c0-4e1c-977e-3b04ecb14efd</responsePageFileDescription>
+    <requestContentFileDescription>team/vus/@balade sur @jpetstore/%resources%/recorded-requests/req_f32e9191-a9c0-4e1c-977e-3b04ecb14efd.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="s"
+        recordRawValue="1333238400" separator="=" value="1333238400" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="e"
+        recordRawValue="1335830399" separator="=" value="1335830399" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="z"
+        recordRawValue="13" separator="=" value="13" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="apt.uid=AP-OLHBIWKH7BEB-2-2-1760365120407-56564147.0.2.e4d8c3a6-cc0b-41ee-96d1-7fd4ced4dbd5; ushahidi=b9icps51r09ph5eod0il2jdqr6; SRVNAME=S2"/>
+    <header name="Host" value="sampledemo.neotys.com"/>
+    <header name="Referer" value="https://sampledemo.neotys.com/"/>
+    <header name="sec-ch-ua" value="&quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"/>
+    <header name="X-Requested-With" value="XMLHttpRequest"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 11 Mar 2026 13:53:04 GMT&#xd;
+Server: Apache&#xd;
+Expires: Thu, 19 Nov 1981 08:52:00 GMT&#xd;
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0&#xd;
+Pragma: no-cache&#xd;
+Set-Cookie: ushahidi=b9icps51r09ph5eod0il2jdqr6; expires=Wed, 11-Mar-2026 15:53:04 GMT; Max-Age=7200; path=/; httponly&#xd;
+Content-Length: 440&#xd;
+Connection: close&#xd;
+Content-Type: application/json; charset=utf-8</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

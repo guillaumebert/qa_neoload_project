@@ -1,0 +1,37 @@
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;2fc-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/img/icon-feed.png"
+    path="/media/img/icon-feed.png" postType="6"
+    recordedArtifactZipFileName="team/vus/@balade sur @jpetstore/%resources%/recorded-artifacts/5dab868a-3ce5-4aab-972d-8ddea87fc8da.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="sampledemo.neotys.com" slaProfileEnabled="false"
+    uid="6c18ccca-d8dc-498f-b29e-42622e6175d8" useKeepAlive="false">
+    <requestContentFileDescription>team/vus/@balade sur @jpetstore/%resources%/recorded-requests/req_f4ce4730-7022-4841-9f0c-4ca6fde69040.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="apt.uid=AP-OLHBIWKH7BEB-2-2-1760365120407-56564147.0.2.e4d8c3a6-cc0b-41ee-96d1-7fd4ced4dbd5; ushahidi=b9icps51r09ph5eod0il2jdqr6; SRVNAME=S2"/>
+    <header name="Host" value="sampledemo.neotys.com"/>
+    <header name="Referer" value="https://sampledemo.neotys.com/"/>
+    <header name="sec-ch-ua" value="&quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 11 Mar 2026 13:53:02 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "2fc-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 764&#xd;
+Connection: close&#xd;
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
